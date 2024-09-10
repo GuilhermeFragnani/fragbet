@@ -1,14 +1,21 @@
+.navsite{
+    text-align: center;
+}
+.redirect{
+    font-size: 5px;
+    text-align: center;
+}
 .esboco{
     background-color: white;
     text-align: center;
     font-size: large;
-    font-size: 30px;
+    font-size: 3px;
     
 }
 .inicio{
     background-color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 3px;
 }
 .imagem1{
     right: 0px;
@@ -21,14 +28,20 @@
 }
 .historia{
     text-align: center;
-    font-size: 20cm;
-    font-size: large;
+    font-size: 3px;
 }
 footer{
     text-align: center;
-    font-size: 35px;
+    font-size: 2px;
 }
-.navsite{
+
+.resultados{
+    font-size: 3px;
     text-align: center;
-    font-size: 10cm;
+    color: greenyellow;
+}
+
+.botaoPesquisar{
+    size: 100mm;
+    text-align: center;
 }
