@@ -1,0 +1,17 @@
+div{
+    border: 1px solid #000;
+    width: 30%;
+}
+.box {
+    width: 100%;
+    display: flex;
+    /*flex-direction: row-reverse;*/
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.box figure img{
+    width: 55%;
+    height: auto;
+}
